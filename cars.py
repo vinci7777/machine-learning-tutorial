@@ -18,4 +18,5 @@ safety = le.fit_transform(list(data["safety"]))
 cls = le.fit_transform(list(data["class"]))
 print(buying)
 
+
 predict = "class"
